@@ -8,7 +8,7 @@ This API receives as input a twitter username/handle and returns a summary video
 
 ## Running
 ### On your machine
-First, **insert your twitter keys and access tokens in the `keys` file.**
+First, **insert your twitter keys and access tokens in the** `keys` **file.**
 
 In the terminal, run `python api.py` and you should see, in the output, a line similar to: `Running on http://127.0.0.1:5000/`.
 
