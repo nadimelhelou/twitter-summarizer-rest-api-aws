@@ -1,8 +1,8 @@
-# Twitter Video API
+# Twitter Video REST API
 video-nadimelhelou created by GitHub Classroom
 
 ## Summary
-This API receives as input a twitter username/handle and returns a summary video of the user's tweets in the last 24 hours. Each tweet is converted to an image, then a video/slideshow is created - using FFMPEG - with all the tweets, each appearing for 5 seconds.
+This REST API receives as input a twitter username/handle and returns a summary video of the user's tweets in the last 24 hours. Each tweet is converted to an image, then a video/slideshow is created - using FFMPEG - with all the tweets, each appearing for 5 seconds.
 
 ## Running
 ### On your machine
